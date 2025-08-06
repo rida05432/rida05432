@@ -18,9 +18,7 @@ I'm a UX Engineer with a Computer Science background, combining design thinking 
 
 ---
 
-💻 
-
-## Tech Stack:
+💻 ## Tech Stack:
 
 ### Languages:  
 `Python` `Java` `SQL` `HTML5` `CSS` `JavaScript` `C` 
