@@ -30,16 +30,18 @@ I'm a UX Engineer with a Computer Science background, combining design thinking 
 
 ---
 
-💻 **Tech Stack**
+💻 
 
-**Languages:**  
-Python • Java • SQL • HTML • CSS • JavaScript • C • VHDL
+## Tech Stack:
 
-**Developer Tools:**  
-Figma • Git • Postman • Power BI
+### Languages:  
+`Python` `Java` `SQL` `HTML5` `CSS` `JavaScript` `C` `VHDL`  
 
-**Frameworks & Platforms:**  
-ReactJS • Next.js • Spring Boot • Node.js • MongoDB • PostgreSQL • Docker • AWS • Azure
+### Developer Tools:  
+`Postman` `Power BI` `Git`  
+
+### Libraries/Frameworks:  
+`AWS` `React` `PostgreSQL` `Spring Boot` `Node.js` `Microsoft Azure` `Docker` `Drools`  
 
 ---
 
