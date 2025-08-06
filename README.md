@@ -22,7 +22,7 @@ Check out my [Coding Portfolio](https://rida05432.github.io/)!
 💻 Tech Stack:
 
 ### Languages:  
-`Python` `Java` `SQL` `HTML5` `CSS` `JavaScript` `C` 
+`Python` `Java` `SQL` `HTML5` `CSS` `JavaScript` `C`
 
 ### Developer Tools:  
 `Postman` `Power BI` `Git`  
