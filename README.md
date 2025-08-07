@@ -33,7 +33,6 @@ Check out my [Coding Portfolio](https://rida05432.github.io/)!
 ---
 
 🏆 **Highlights**
-- 🌱 Finalist at **EasyA Hackathon** with EnergyX — a decentralized sustainability tracker
 - 📈 Developed a currency trading bot using RSI in Morgan Stanley’s campus challenge
 - 🎯 Continuously improving systems thinking, responsive design, and agile development
 
